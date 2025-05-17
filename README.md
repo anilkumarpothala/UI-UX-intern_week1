@@ -28,4 +28,4 @@ A mobile UI/UX design project for a music player that adapts playlists based on 
 ---
 ## 🔖 Tags
 
-`UI Design` `UX Design` `Mobile App` `Beginner Project` `Internship Challenge` `Music App`
+#UI Design` `UX Design` `Mobile App` `Beginner Project` `Internship Challenge` `Music App`
