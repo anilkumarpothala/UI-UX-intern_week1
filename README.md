@@ -1,5 +1,5 @@
 # UI-UX-intern_week1
-Add files via upload
+If you want to open directly in Figma : https://www.figma.com/design/SNQz6b3ClrCsh2zf1pGTyh/Week_1?node-id=0-1&m=dev&t=oclT2wNTFlWY4wig-1
 # 🎵 Mood-Based Music App UI
 
 A mobile UI/UX design project for a music player that adapts playlists based on the user’s emotional state.
